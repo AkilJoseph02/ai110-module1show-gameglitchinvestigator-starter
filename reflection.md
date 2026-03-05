@@ -7,6 +7,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
+  Answer: When typing an answer, "Press Enter to apply" appears. Pressing Enter doesn't enter the guess. The hints to guess the right answer weren't accurate. For example, I had a game where the answer was 9. However, the hint system lead me between 34 and 35 (go higher for 34, lower at 35). Lastly, starting a new game with the "New Game" button is impossible. The button didn't work, a secret number would be updated, but the input for guesses would remain locked after I either game overed or won.
 
 ---
 
