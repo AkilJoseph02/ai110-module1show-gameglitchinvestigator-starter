@@ -53,4 +53,4 @@ Answer: The secret number kept changing because, once the game was either won or
   - This could be a testing habit, a prompting strategy, or a way you used Git.
 - What is one thing you would do differently next time you work with AI on a coding task?
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
-Answer:
+Answer: I realized that AI generated code is NOT perfect, nor is it omniscient. It needs to be guided and told what to change and how to change it. For me to utilize AI code generation accurately and efficiently, I need to understand how the code works on a base level.
