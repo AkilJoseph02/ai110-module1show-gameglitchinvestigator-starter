@@ -25,13 +25,13 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- It's a guessing game. The page sets up a random number, and the game is to guess the random within a given amount of attempts.
+- [Issues with the hint system being inaccurate. The range of secret numbers between Normal and Hard difficulty needing to be swapped, same with the number of attempts between Easy and Normal difficulty. Allowing the Enter key to be able to input a guess. The range of the secret number would be within the range of the given difficulty.] Detail which bugs you found.
+- Modified the st.form to allow key press of "Enter" to enter the the guess. Swapped the number of attempts between Easy and Hard. Used "low" and "high" in reassigning the secret number, such that the range alligned with the difficulty. Swapped the hints so that the page would prompt the user to go higher if their guess was too low, or lower if the guess was too high.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [![alt text](image.png) ] [Insert a screenshot of your fixed, winning game here]
 
 ## 🚀 Stretch Features
 
